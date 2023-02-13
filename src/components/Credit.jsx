@@ -46,7 +46,7 @@ const Credit = () => {
       <span>
         <a
           className="underline font-bold"
-          href="https://github.com/elliott-chong/postman-clone"
+          href="https://github.com/0xnehasingh/API-testing-tool"
           target="_blank"
         >
           0xnehasingh.eth
