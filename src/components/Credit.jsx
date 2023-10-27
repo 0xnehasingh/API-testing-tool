@@ -49,7 +49,7 @@ const Credit = () => {
           href="https://github.com/elliott-chong/postman-clone"
           target="_blank"
         >
-          Elliott Chong
+          0xnehasingh.eth
         </a>
       </span>
     </p>
